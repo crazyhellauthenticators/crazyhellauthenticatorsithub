@@ -1,10 +1,31 @@
 # crazyhellauthenticatorsithub
-crazyhellauthenticatorsithub
 
+crazyhellauthenticatorsos@googlegroups.com
 
+https://groups.google.com/g/crazyhellauthenticatorsos
 
+https://groups.google.com/g/crazyhellbiometricapp
 
-CrazyHellAuthenticatorsApp@CrazyHellAuthenticatorsApp.authentications	
+https://groups.google.com/g/crazyhellpasswordmanagersapp
+
+https://groups.google.com/g/crazyhellpasswordlessapp
+
+https://groups.google.com/g/crazyhellidentificationapp
+
+https://groups.google.com/g/crazyhellcertificatesapp
+
+https://groups.google.com/g/crazyhellcertificatesapp
+
+https://groups.google.com/g/crazyhellintegrationsapp
+
+https://groups.google.com/g/crazyhellregistrationsapp
+
+https://groups.google.com/g/CrazyHellStatementsApp
+
+https://groups.google.com/g/crazyhelltokensapp
+
+https://groups.google.com/g/crazyhellcaptchaapp
+
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCNT5nakevLtkoArWnE9zXB5kgZVe58f5YWP/PIjhcGDhLrwmID2dQkNgHNz8lFyGzGqrYvBBG8cRxNrTrVBcmN/kygYBHXMN0Zo5KDA37KgOsokmkwqBZtWJexGe5xpLmWTOODMBmCowIDWH2sKgXr/yy+g0leeHHuXrNItmmP7AJY2syTB9nwGK36jDymcvD+bN6zFEHX70mVENkRRB7bnDOEEvIFPudqwAcMM74itoSXZI1uAOKM+akZn88paO60wjEFr0xACQ8R8tTPDxYgsTDpNSmSDwC+iJojOTGFvMFsUIZwwOrd0dKqEOmVr7M+QncXlJPOBTar7dS+geNz rsa-key-20240919
 
